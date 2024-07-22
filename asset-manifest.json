@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abdulkalam14/Budget-analyser.git/static/css/main.d5289b2f.css",
+    "main.js": "/Abdulkalam14/Budget-analyser.git/static/js/main.866b2eec.js",
+    "index.html": "/Abdulkalam14/Budget-analyser.git/index.html",
+    "main.d5289b2f.css.map": "/Abdulkalam14/Budget-analyser.git/static/css/main.d5289b2f.css.map",
+    "main.866b2eec.js.map": "/Abdulkalam14/Budget-analyser.git/static/js/main.866b2eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.866b2eec.js"
+  ]
+}
